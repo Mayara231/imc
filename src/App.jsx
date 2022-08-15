@@ -1,7 +1,5 @@
 import './App.css'
 
-export default function App() {import './App.css'
-
 import React from 'react'
 
 import CssBaseline from '@mui/material/CssBaseline';
@@ -123,10 +121,4 @@ export default function App() {
   return (
     <Imc />
   );
-}
-  return (
-    <main>
-      React ⚛️ + Vite ⚡ + Replit 🌀
-    </main>
-  )
 }
